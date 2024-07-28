@@ -1,0 +1,13 @@
+{
+  "name": "whatsapp-simi-bot",
+  "version": "1.0.0",
+  "description": "WhatsApp bot with Simi-Simi feature using pairing-code",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@adiwajshing/baileys": "^3.5.1",
+    "axios": "^0.21.1"
+  }
+}
